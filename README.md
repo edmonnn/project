@@ -7,7 +7,7 @@ The idea of the project is a decentralized short video platform, leveraging proo
 Centralized video platforms impose intrusive advertisements, content restrictions, and censorship, stifling creativity and limiting user freedom. Recent absurd decision of TikTok to automatically block clown emoji comments, highlight the need for a decentralized, censorship-resistant alternative.
 
 3. Solution:
-The project addresses these challenges by offering a decentralized platform for short-form video content, free from ads and censorship. Users can enjoy a diverse range of content, including adult content
+The project addresses these challenges by offering a decentralized platform for short-form video content, free from ads and censorship. Users can enjoy a diverse range of content, including adult content.
 
 5. Market Opportunity:
 The increasing demand for ad-free platforms, particularly among younger demographics, presents a significant opportunity for the project to establish itself as a leader in the evolving video streaming landscape.
