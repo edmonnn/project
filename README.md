@@ -1,4 +1,4 @@
-# project Ace
+# Project Ace
 
 1. Overview:
 The idea of the project is decentralized short video platform, leveraging proof of spacetime technology to provide a seamless and ad-free viewing experience.
